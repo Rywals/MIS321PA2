@@ -1,0 +1,11 @@
+C:\Users\Ryan\source\repos\MIS321\MIS321PA2\bin\Debug\netcoreapp3.1\MIS321PA2.exe
+C:\Users\Ryan\source\repos\MIS321\MIS321PA2\bin\Debug\netcoreapp3.1\MIS321PA2.deps.json
+C:\Users\Ryan\source\repos\MIS321\MIS321PA2\bin\Debug\netcoreapp3.1\MIS321PA2.runtimeconfig.json
+C:\Users\Ryan\source\repos\MIS321\MIS321PA2\bin\Debug\netcoreapp3.1\MIS321PA2.runtimeconfig.dev.json
+C:\Users\Ryan\source\repos\MIS321\MIS321PA2\bin\Debug\netcoreapp3.1\MIS321PA2.dll
+C:\Users\Ryan\source\repos\MIS321\MIS321PA2\bin\Debug\netcoreapp3.1\MIS321PA2.pdb
+C:\Users\Ryan\source\repos\MIS321\MIS321PA2\obj\Debug\netcoreapp3.1\MIS321PA2.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\MIS321\MIS321PA2\obj\Debug\netcoreapp3.1\MIS321PA2.AssemblyInfoInputs.cache
+C:\Users\Ryan\source\repos\MIS321\MIS321PA2\obj\Debug\netcoreapp3.1\MIS321PA2.AssemblyInfo.cs
+C:\Users\Ryan\source\repos\MIS321\MIS321PA2\obj\Debug\netcoreapp3.1\MIS321PA2.dll
+C:\Users\Ryan\source\repos\MIS321\MIS321PA2\obj\Debug\netcoreapp3.1\MIS321PA2.pdb
